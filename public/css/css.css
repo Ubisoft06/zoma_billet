@@ -1,0 +1,1351 @@
+.figma-frame {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 1024px;
+    left: 0px;
+    opacity: 1;
+    position: absolute;
+    transform: rotate(0deg);
+    width: 100%;
+}
+
+.figma-frame #plan {}
+
+.figma-frame #plan .salle {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-color: rgba(0, 0, 0, 1.0);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 120px 120px 0 0;
+    height: 609px;
+    left: 13px;
+    opacity: 0.5;
+    position: absolute;
+    top: 210px;
+    transform: rotate(0deg);
+    width: 1300px;
+}
+
+.figma-frame #plan #entree {}
+
+.figma-frame #plan #entree .entree {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 60px;
+    left: 725px;
+    opacity: 1;
+    position: absolute;
+    top: 151px;
+    transform: rotate(0deg);
+    width: 251px;
+}
+
+.figma-frame #plan #entree .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 48px;
+    font-weight: 400;
+    height: 61px;
+    left: 786px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 151px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 128px;
+}
+
+.figma-frame #plan #estrade {}
+
+.figma-frame #plan #estrade .estrade {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-color: rgba(0, 0, 0, 1.0);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 0 100% 100% 0;
+    height: 326px;
+    left: 27px;
+    opacity: 0.5;
+    position: absolute;
+    top: 426px;
+    transform: rotate(0deg);
+    width: 94px;
+}
+
+.figma-frame #plan #estrade .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 48px;
+    font-weight: 400;
+    height: 48px;
+    left: 49px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 583px;
+    left: 10px;
+    transform: rotate(90deg);
+    white-space: pre-wrap;
+    width: 145px;
+}
+
+.figma-frame #plan .table_16_01 {}
+
+.figma-frame #plan .table_16_01 #table_16_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 245px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_16_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 268px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 669px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 34px;
+}
+
+.figma-frame #plan .table_16_02 {}
+
+.figma-frame #plan .table_16_02 #table_16_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 348px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_16_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 370px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 669px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 49px;
+}
+
+.figma-frame #plan .table_16_03 {}
+
+.figma-frame #plan .table_16_03 #table_16_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 451px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_16_03 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 473px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 666px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 49px;
+}
+
+.figma-frame #plan .table_10_13 {}
+
+.figma-frame #plan .table_10_13 #table_10_13 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 166px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 55px;
+}
+
+.figma-frame #plan .table_10_13 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 175px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 666px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 37px;
+}
+
+.figma-frame #plan .table_10_14 {}
+
+.figma-frame #plan .table_10_14 #table_10_14 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 633px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 55px;
+}
+
+.figma-frame #plan .table_10_14 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 641px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 666px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 37px;
+}
+
+.figma-frame #plan .table_10_15 {}
+
+.figma-frame #plan .table_10_15 #table_10_15 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 554px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 55px;
+}
+
+.figma-frame #plan .table_10_15 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 564px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 668px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 37px;
+}
+
+.figma-frame #plan .table_4_01 {}
+
+.figma-frame #plan .table_4_01 #table_4_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 80px;
+    left: 707px;
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    transform: rotate(0deg);
+    width: 55px;
+}
+
+.figma-frame #plan .table_4_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 726px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 650px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan #piste {}
+
+.figma-frame #plan #piste .piste {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 100%;
+    border-width: 1px;
+    height: 175px;
+    left: 200px;
+    opacity: 1;
+    position: absolute;
+    top: 413px;
+    transform: rotate(0deg);
+    width: 629px;
+}
+
+.figma-frame #plan #piste .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 38px;
+    font-weight: 400;
+    height: 61px;
+    left: 471px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 479px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 88px;
+}
+
+.figma-frame #plan .table_8_01 {}
+
+.figma-frame #plan .table_8_01 #table_8_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 636px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 658px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_02 {}
+
+.figma-frame #plan .table_8_02 #table_8_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 406px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 428px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_03 {}
+
+.figma-frame #plan .table_8_03 #table_8_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 483px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_03 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 504px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_04 {}
+
+.figma-frame #plan .table_8_04 #table_8_04 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 99px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_04 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 121px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_05 {}
+
+.figma-frame #plan .table_8_05 #table_8_05 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 175px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_05 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 198px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_06 {}
+
+.figma-frame #plan .table_8_06 #table_8_06 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 559px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_06 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 582px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_07 {}
+
+.figma-frame #plan .table_8_07 #table_8_07 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 252px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_07 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 274px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_8_08 {}
+
+.figma-frame #plan .table_8_08 #table_8_08 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 329px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 63px;
+}
+
+.figma-frame #plan .table_8_08 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 351px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-decoration: NONE;
+    top: 277px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_6_01 {}
+
+.figma-frame #plan .table_6_01 #table_6_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 1124px;
+    opacity: 1;
+    position: absolute;
+    top: 645px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_6_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1149px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 673px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 19px;
+}
+
+.figma-frame #plan .table_6_02 {}
+
+.figma-frame #plan .table_6_02 #table_6_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 929px;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_6_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 956px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 269px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 19px;
+}
+
+.figma-frame #plan .table_6_03 {}
+
+.figma-frame #plan .table_6_03 #table_6_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 1122px;
+    opacity: 1;
+    position: absolute;
+    top: 226px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_6_03 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1148px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 256px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 19px;
+}
+
+.figma-frame #plan .table_6_04 {}
+
+.figma-frame #plan .table_6_04 #table_6_04 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 1124px;
+    opacity: 1;
+    position: absolute;
+    top: 539px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_6_04 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1149px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 567px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 19px;
+}
+
+.figma-frame #plan .table_15_01 {}
+
+.figma-frame #plan .table_15_01 #table_15_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 240px;
+    left: 1022px;
+    opacity: 1;
+    position: absolute;
+    top: 230px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_15_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1047px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 331px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 34px;
+}
+
+.figma-frame #plan .table_15_02 {}
+
+.figma-frame #plan .table_15_02 #table_15_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 240px;
+    left: 1023px;
+    opacity: 1;
+    position: absolute;
+    top: 494px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_15_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1048px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 597px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 34px;
+}
+
+.figma-frame #plan .table_10_16 {}
+
+.figma-frame #plan .table_10_16 #table_10_16 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 200px;
+    left: 1124px;
+    opacity: 1;
+    position: absolute;
+    top: 334px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_10_16 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1140px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 413px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 37px;
+}
+
+.figma-frame #plan .table_4_02 {}
+
+.figma-frame #plan .table_4_02 #table_4_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 65px;
+    left: 1217px;
+    opacity: 1;
+    position: absolute;
+    top: 248px;
+    transform: rotate(0deg);
+    width: 55px;
+}
+
+.figma-frame #plan .table_4_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 35.75px;
+    left: 1235px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 260px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #plan .table_15_03 {}
+
+.figma-frame #plan .table_15_03 #table_15_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 280px;
+    left: 1212px;
+    opacity: 1;
+    position: absolute;
+    top: 334px;
+    transform: rotate(0deg);
+    width: 79px;
+}
+
+.figma-frame #plan .table_15_03 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1238px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 447px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 34px;
+}
+
+.figma-frame #plan .table_6_05 {}
+
+.figma-frame #plan .table_6_05 #table_6_05 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 1216px;
+    opacity: 1;
+    position: absolute;
+    top: 639px;
+    transform: rotate(0deg);
+    width: 71px;
+}
+
+.figma-frame #plan .table_6_05 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 35px;
+    font-weight: 400;
+    height: 44px;
+    left: 1242px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 666px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 19px;
+}
+
+.figma-frame #plan #bar {}
+
+.figma-frame #plan #bar .bar {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-color: rgba(0, 0, 0, 1.0);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 30px 30px 0px 0px;
+    height: 40px;
+    left: 166px;
+    opacity: 0.5;
+    position: absolute;
+    top: 779px;
+    transform: rotate(0deg);
+    width: 515px;
+}
+
+.figma-frame #plan #bar .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 25px;
+    font-weight: 400;
+    height: 32px;
+    left: 404px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 783px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 37px;
+}
+
+.figma-frame #plan #obistro {}
+
+.figma-frame #plan #obistro .obistro {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-color: rgba(0, 0, 0, 1.0);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 30px 30px 0px 0px;
+    height: 40px;
+    left: 786px;
+    opacity: 0.5;
+    position: absolute;
+    top: 779px;
+    transform: rotate(0deg);
+    width: 430px;
+}
+
+.figma-frame #plan #obistro .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 25px;
+    font-weight: 400;
+    height: 32px;
+    left: 960px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 785px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 88px;
+}
+
+.figma-frame #virtual {}
+
+.figma-frame #virtual .virtual_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 28px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 102px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 176px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_04 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 250px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_05 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 329px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_06 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 407px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_07 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 559px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_08 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 636px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_09 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 1047px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_10 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 1124px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_11 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 1202px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #virtual .virtual_12 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 120px;
+    left: 482px;
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    transform: rotate(0deg);
+    width: 62px;
+}
+
+.figma-frame #mezzanine {}
+
+.figma-frame #mezzanine .mezzanine {
+    background-color: rgba(255, 255, 255, 1.0);
+    border-color: rgba(0, 0, 0, 1.0);
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 5px;
+    height: 120px;
+    left: 67px;
+    opacity: 0.5;
+    position: absolute;
+    top: 824px;
+    transform: rotate(0deg);
+    width: 503px;
+}
+
+.figma-frame #mezzanine .table_5_01 {}
+
+.figma-frame #mezzanine .table_5_01 #table_5_01 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 229px;
+    opacity: 1;
+    position: absolute;
+    top: 838px;
+    transform: rotate(0deg);
+    width: 84px;
+}
+
+.figma-frame #mezzanine .table_5_01 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 268px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 873px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #mezzanine .table_5_02 {}
+
+.figma-frame #mezzanine .table_5_02 #table_5_02 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 476px;
+    opacity: 1;
+    position: absolute;
+    top: 838px;
+    transform: rotate(0deg);
+    width: 84px;
+}
+
+.figma-frame #mezzanine .table_5_02 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 514px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 873px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #mezzanine .table_5_03 {}
+
+.figma-frame #mezzanine .table_5_03 #table_5_03 {
+    background-color: rgba(196, 196, 196, 1.0);
+    border-radius: 0px;
+    border-width: 1px;
+    height: 100px;
+    left: 352px;
+    opacity: 1;
+    position: absolute;
+    top: 838px;
+    transform: rotate(0deg);
+    width: 84px;
+}
+
+.figma-frame #mezzanine .table_5_03 .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 30px;
+    font-weight: 400;
+    height: 38px;
+    left: 391px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 873px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 20px;
+}
+
+.figma-frame #mezzanine .text {
+    color: rgba(0, 0, 0, 1.0);
+    font-family: Acme;
+    font-size: 23px;
+    font-weight: 400;
+    height: 29px;
+    left: 88px;
+    letter-spacing: 0%;
+    line-height: auto;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    text-decoration: NONE;
+    top: 844px;
+    transform: rotate(0deg);
+    white-space: pre-wrap;
+    width: 121px;
+}
